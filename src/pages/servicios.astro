@@ -1,0 +1,22 @@
+---
+import Layout from '../components/Layout.astro'
+import ServiciosCards from '../components/cards/ServiciosCards.astro'
+import Navegacion from '../components/Navegacion.astro'
+---
+
+<Layout pageTitle="Inicio">
+	<main class="contenedor grid auto-cols-max grid-cols-12 mt-24">
+		<section class="col_left-servicios col-span-12 md:col-span-6 p-12 grid auto-cols-max grid-cols-12 gap-4" id="servicios">
+			<ServiciosCards/>
+		</section>
+		<aside class="col_right col-span-12 md:col-span-6 p-12 flex flex-col items-center justify-center bg-white">
+			<header>
+				<img class="w-48" src="/odontopediatra-andrea-flores-logotipo.png" alt="">
+			</header>
+			<Navegacion/>
+		</aside>
+	</main>
+</Layout>
+
+
+
