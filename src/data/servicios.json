@@ -3,31 +3,19 @@
         "name": "Pulpotomías",
         "thumb": "/thumbs/pulpotomia-odontopediatra-andrea-flores.jpg",
         "desc": "La pulpotomía es un procedimiento dental en niños que implica la eliminación parcial de la pulpa dental dañada, preservando la salud del diente.",
-<<<<<<< HEAD
         "path": "/odontopediatra-doctora-andrea-flores/servicios/pulpotomias/"
-=======
-        "path": "/servicios/pulpotomias/"
->>>>>>> 8da8a6611ef77e3877b773812bc9a9156e3f8768
     },
     {
         "name": "Pulpectomías",
         "thumb": "/thumbs/pulpectomia-odontopediatra-andrea-flores.jpg",
         "desc": "Es la eliminación completa de la pulpa dental dañada en un diente de leche para evitar infecciones y preservar la estructura dental.",
-<<<<<<< HEAD
         "path": "/odontopediatra-doctora-andrea-flores/servicios/pulpectomias/"
-=======
-        "path": "/servicios/pulpectomias/"
->>>>>>> 8da8a6611ef77e3877b773812bc9a9156e3f8768
     },
     {
         "name": "Coronas metálicas",
         "thumb": "/thumbs/coronas-odontopediatra-andrea-flores.jpg",
         "desc": "Son fundas dentales hechas de metal que se utilizan para proteger y fortalecer los dientes dañados o debilitados. Son especialmente comunes en dientes de leche.",
-<<<<<<< HEAD
         "path": "/odontopediatra-doctora-andrea-flores/servicios/coronas-metalicas/"
-=======
-        "path": "/servicios/coronas-metalicas/"
->>>>>>> 8da8a6611ef77e3877b773812bc9a9156e3f8768
     },
     {
         "name": "Resinas",
