@@ -3,42 +3,42 @@
         "name": "Pulpotomías",
         "thumb": "/thumbs/pulpotomia-odontopediatra-andrea-flores.jpg",
         "desc": "La pulpotomía es un procedimiento dental en niños que implica la eliminación parcial de la pulpa dental dañada, preservando la salud del diente.",
-        "path": "/servicios/pulpotomias/"
+        "path": "/odontopediatra-doctora-andrea-flores/servicios/pulpotomias/"
     },
     {
         "name": "Pulpectomías",
         "thumb": "/thumbs/pulpectomia-odontopediatra-andrea-flores.jpg",
         "desc": "Es la eliminación completa de la pulpa dental dañada en un diente de leche para evitar infecciones y preservar la estructura dental.",
-        "path": "/servicios/pulpectomias/"
+        "path": "/odontopediatra-doctora-andrea-flores/servicios/pulpectomias/"
     },
     {
         "name": "Coronas metálicas",
         "thumb": "/thumbs/coronas-odontopediatra-andrea-flores.jpg",
         "desc": "Son fundas dentales hechas de metal que se utilizan para proteger y fortalecer los dientes dañados o debilitados. Son especialmente comunes en dientes de leche.",
-        "path": "/servicios/coronas-metalicas/"
+        "path": "/odontopediatra-doctora-andrea-flores/servicios/coronas-metalicas/"
     },
     {
         "name": "Resinas",
         "thumb": "/thumbs/resinas-odontopediatra-andrea-flores.jpg",
         "desc": "Son materiales de restauración dental utilizados para reparar dientes dañados o decayentes. Se adhieren al diente y se moldean para restaurar su forma y función.",
-        "path": "/servicios/resinas/"
+        "path": "/odontopediatra-doctora-andrea-flores/servicios/resinas/"
     },
     {
         "name": "Coronas estáticas",
         "thumb": "/thumbs/coronas-estaticas-odontopediatra-andrea-flores.jpg",
         "desc": "Son restauraciones dentales que imitan el aspecto natural de los dientes. Están hechas de materiales como porcelana o cerámica y se utilizan para mejorar la apariencia de los dientes anteriores.",
-        "path": "/servicios/coronas-estaticas/"
+        "path": "/odontopediatra-doctora-andrea-flores/servicios/coronas-estaticas/"
     },
     {
         "name": "Limpiezas dentales",
         "thumb": "/thumbs/limpiezas-dentales-odontopediatra-andrea-flores.jpg",
         "desc": "Es un procedimiento de higiene dental que elimina la placa, el sarro y las manchas de los dientes. Ayuda a mantener una buena salud oral y prevenir enfermedades bucales.",
-        "path": "/servicios/limpiezas-dentales/"
+        "path": "/odontopediatra-doctora-andrea-flores/servicios/limpiezas-dentales/"
     },
     {
         "name": "Ortopedia maxilar",
         "thumb": "/thumbs/ortopedia-maxilar-odontopediatra-andrea-flores.jpg",
         "desc": " Es un tratamiento que corrige problemas de crecimiento y desarrollo de los huesos y la mandíbula para lograr una alineación adecuada de los dientes y una función óptima.",
-        "path": "/servicios/ortopedia-maxilar/"
+        "path": "/odontopediatra-doctora-andrea-flores/servicios/ortopedia-maxilar/"
     }
 ]

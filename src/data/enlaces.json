@@ -4,19 +4,19 @@
         "name": "Inicio"
     },
     {
-        "path": "/conoce-a-tu-odontopediatra/",
+        "path": "/odontopediatra-doctora-andrea-flores/conoce-a-tu-odontopediatra/",
         "name": "Conoce a tu Odontopediatra"
     },
     {
-        "path": "/servicios/",
+        "path": "/odontopediatra-doctora-andrea-flores/servicios/",
         "name": "Servicios"
     },
     {
-        "path": "/agenda-tu-consulta/",
+        "path": "/odontopediatra-doctora-andrea-flores/agenda-tu-consulta/",
         "name": "Agenda tu consulta"
     },
     {
-        "path": "/ubicacion/",
+        "path": "/odontopediatra-doctora-andrea-flores/ubicacion/",
         "name": "Ubicación"
     }
 ]
