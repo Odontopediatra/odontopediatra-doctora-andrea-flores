@@ -1,0 +1,16 @@
+---
+import Servicios from '../../data/servicios.json'
+---
+
+
+    {
+        Servicios.map((servicio) => (
+            <div class="card col-span-12 md:col-span-4 text-center shadow-xs bg-white">
+                <img src={servicio.thumb} alt="">
+                <h3 class="mt-4">
+                    {servicio.name}
+                </h3>
+                <a class="inline-block rounded-full bg-blue-400 py-2 px-3 text-center text-sm text-white mt-4 md:hover:bg-blue-500 transition-all" href={servicio.path}>Ver más...</a>
+            </div>
+        ))
+    }

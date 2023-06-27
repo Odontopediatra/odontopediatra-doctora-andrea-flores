@@ -1,0 +1,16 @@
+---
+import WhatsAppBtn from '../components/WhatsAppBoton.astro'
+import Rutas from '../data/rutas.json'
+---
+<!-- Componente de navegación -->
+<nav class="flex flex-col w-full mt-10">
+    
+    {
+        Rutas.map((ruta) => (
+            <a class="nav-items rounded-full border-blue-400 border-2 mb-10 py-1 px-6 text-center w-full text-blue-400 md:hover:bg-blue-400 md:hover:text-white md:hover:transition-all" href={ruta.path}>
+                {ruta.name}
+            </a>
+        ))
+    }
+    <WhatsAppBtn/>
+</nav>

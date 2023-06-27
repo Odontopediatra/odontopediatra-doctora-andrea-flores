@@ -1,0 +1,57 @@
+<!-- Componente para el formulario de agenda -->
+<form class="col-span-12 flex flex-col" action="https://formspree.io/f/xpzevjvr" method="POST" id="form">
+    <div class="form_group flex flex-col md:flex-row gap-5" id="formAgenda">
+        <label>
+            Nombre:
+            <input class="pb-4" type="text" name="Nombre" placeholder="Nombre">
+        </label>
+        <label>
+            Apellido:
+            <input class="pb-4" type="text" name="Apellido" placeholder="Apellido">
+        </label>
+    </div>
+    <div class="form_group flex flex-col md:flex-row  gap-5 mt-8">
+        <label>
+            Correo:
+            <input class="pb-4" type="email" name="Email" placeholder="email@tucorreo.com">
+        </label>
+        <label>
+            Teléfono:
+            <input class="pb-4" type="tel" name="Teléfono" placeholder="(000)0000000">
+        </label>
+    </div>
+    <div class="mt-8">
+        <label>
+            Fecha en la que quiere agendar:
+            <input class="p-4 date" type="date" name="Fecha de consulta">
+        </label>
+    </div>
+    <div class="mt-8">
+        <label class="flex flex-col">
+            Mensaje:
+            <textarea class="mt-8 p-4" cols="8" rows="8" name="Mensaje" placeholder="Dudas, comentarios, problema de salur oral"></textarea>
+        </label>
+    </div>
+    <button class="mt-8 text-left btn_submit bg-blue-400 md:hover:bg-blue-500 transition-all w-32 text-center text-white uppercase p-2" type="submit">Envíar</button>
+</form>
+
+<script>
+    const $form = document.querySelector('#form')
+    $form.addEventListener('submit', handleSubmit)
+
+    async function handleSubmit(event) {
+        event.preventDefault()
+        const form = new FormData(this)
+        const response = await fetch(this.action, {
+            method: this.method,
+            body: form,
+            headers: {
+                'Accept': 'application/json'
+            }
+        })
+        if(response.ok) {
+            this.reset()
+            alert('Gracias por contactarme me pondré en contacto contigo a la brevedad')
+        } 
+    }
+</script>

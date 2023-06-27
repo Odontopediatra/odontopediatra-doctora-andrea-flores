@@ -1,0 +1,27 @@
+---
+import Layout from '../../../components/Layout.astro'
+import Navegacion from '../../../components/Navegacion.astro'
+import Servicio from '../../../data/servicios.json'
+---
+
+<Layout pageTitle="Coronas metálicas">
+	<main class="contenedor grid auto-cols-max grid-cols-12 mt-24">
+		<section class="col_left-servicios col-span-12 md:col-span-6 p-12 grid auto-cols-max grid-cols-12 gap-4" id="servicios">
+			<div class="thumb_middle col-span-12">
+				<img src={Servicio[2].thumb} alt="">
+				<h1 class="mt-7 font-bold text-5xl">{Servicio[2].name}</h1>
+				<div class="desc mt-8">
+					<p class="text-2xl">
+						{Servicio[2].desc}
+					</p>	
+				</div>
+			</div>
+		</section>
+		<aside class="col_right col-span-12 md:col-span-6 p-12 flex flex-col items-center justify-center bg-white">
+			<header>
+				<img class="w-48" src="/odontopediatra-andrea-flores-logotipo.png" alt="">
+			</header>
+			<Navegacion/>
+		</aside>
+	</main>
+</Layout>

@@ -1,0 +1,22 @@
+[
+    {
+        "path": "/",
+        "name": "Inicio"
+    },
+    {
+        "path": "/conoce-a-tu-odontopediatra/",
+        "name": "Conoce a tu Odontopediatra"
+    },
+    {
+        "path": "/servicios/",
+        "name": "Servicios"
+    },
+    {
+        "path": "/agenda-tu-consulta/",
+        "name": "Agenda tu consulta"
+    },
+    {
+        "path": "/ubicacion/",
+        "name": "Ubicación"
+    }
+]

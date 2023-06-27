@@ -1,0 +1,33 @@
+/*
+    Estilos de la página de inicio
+*/
+
+.center {
+}
+
+.col_left,
+.col_right {
+    height: 65rem;
+}
+
+.col_left {
+    background-image: url('../../public/fondos/bg-1.jpg');
+    background-size: cover;
+   
+}
+
+.col_right {
+    @include desktop {
+        border-radius: 0 50px 50px 0;
+    }
+}
+
+.nav-items {
+    font-size: 1.59rem;
+}
+
+/* Columnas secciones */
+.col_left-servicios {
+    background-color: $blanco;
+    border-right: solid 2px $primario;
+}
