@@ -33,40 +33,24 @@
         "name": "Resinas",
         "thumb": "/thumbs/resinas-odontopediatra-andrea-flores.jpg",
         "desc": "Son materiales de restauración dental utilizados para reparar dientes dañados o decayentes. Se adhieren al diente y se moldean para restaurar su forma y función.",
-<<<<<<< HEAD
         "path": "/odontopediatra-doctora-andrea-flores/servicios/resinas/"
-=======
-        "path": "/servicios/resinas/"
->>>>>>> 8da8a6611ef77e3877b773812bc9a9156e3f8768
     },
     {
         "name": "Coronas estáticas",
         "thumb": "/thumbs/coronas-estaticas-odontopediatra-andrea-flores.jpg",
         "desc": "Son restauraciones dentales que imitan el aspecto natural de los dientes. Están hechas de materiales como porcelana o cerámica y se utilizan para mejorar la apariencia de los dientes anteriores.",
-<<<<<<< HEAD
         "path": "/odontopediatra-doctora-andrea-flores/servicios/coronas-estaticas/"
-=======
-        "path": "/servicios/coronas-estaticas/"
->>>>>>> 8da8a6611ef77e3877b773812bc9a9156e3f8768
     },
     {
         "name": "Limpiezas dentales",
         "thumb": "/thumbs/limpiezas-dentales-odontopediatra-andrea-flores.jpg",
         "desc": "Es un procedimiento de higiene dental que elimina la placa, el sarro y las manchas de los dientes. Ayuda a mantener una buena salud oral y prevenir enfermedades bucales.",
-<<<<<<< HEAD
         "path": "/odontopediatra-doctora-andrea-flores/servicios/limpiezas-dentales/"
-=======
-        "path": "/servicios/limpiezas-dentales/"
->>>>>>> 8da8a6611ef77e3877b773812bc9a9156e3f8768
     },
     {
         "name": "Ortopedia maxilar",
         "thumb": "/thumbs/ortopedia-maxilar-odontopediatra-andrea-flores.jpg",
         "desc": " Es un tratamiento que corrige problemas de crecimiento y desarrollo de los huesos y la mandíbula para lograr una alineación adecuada de los dientes y una función óptima.",
-<<<<<<< HEAD
         "path": "/odontopediatra-doctora-andrea-flores/servicios/ortopedia-maxilar/"
-=======
-        "path": "/servicios/ortopedia-maxilar/"
->>>>>>> 8da8a6611ef77e3877b773812bc9a9156e3f8768
     }
 ]
