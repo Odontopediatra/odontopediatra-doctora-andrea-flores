@@ -2,6 +2,7 @@
     "name": "odontopediatra",
     "type": "module",
     "version": "0.0.1",
+    "homepage": "https://odontopediatra.github.io/odontopediatra-doctora-andrea-flores/",
     "scripts": {
         "dev": "astro dev",
         "start": "astro dev",
