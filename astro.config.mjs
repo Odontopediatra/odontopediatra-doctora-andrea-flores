@@ -5,6 +5,6 @@ import tailwind from "@astrojs/tailwind";
 // https://astro.build/config
 export default defineConfig({
   integrations: [tailwind()],
-  site: 'https://odontopediatra.github.io',
+  site: 'https://Odontopediatra.github.io',
   base: '/odontopediatra-doctora-andrea-flores/',
 });
